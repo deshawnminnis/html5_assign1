@@ -1,9 +1,9 @@
 <html>
 <body>
   <h1>My first header</h1>
-  <p1>My 1st paragraph</p1>
+  <p1><u>My 1st paragraph</u></p1>
   <br>
-  <p2>My 2nd paragraph</p2>
+  <p2><b>My 2nd paragraph</b></p2>
   <br>
   <p3>My 3rd paragraph</p3>
   <br>
