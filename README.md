@@ -1,6 +1,6 @@
 <html>
 <body>
-  <h1>My first header</h1>
+  <h1><center>My first header</center></h1>
   <p1>My 1st paragraph</p1>
   <br>
   <p2>My 2nd paragraph</p2>
