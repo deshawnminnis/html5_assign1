@@ -5,7 +5,7 @@
   <br>
   <p2><b>My 2nd paragraph</b></p2>
   <br>
-  <p3>My 3rd paragraph</p3>
+  <p3><del>My 3rd paragraph</del></p3>
   <br>
   <h2>My second heading</h2>
   <img src="../images/html5.png">
